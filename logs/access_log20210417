@@ -1,0 +1,14 @@
+34.222.48.210 - - [17/Apr/2021:03:02:50 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" 41768
+52.26.69.164 - - [17/Apr/2021:05:12:31 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36" 49550
+35.237.82.46 - - [17/Apr/2021:10:06:40 -0300] "GET /robots.txt HTTP/1.0" 404 1033 "-" "ZoominfoBot (zoominfobot at zoominfo dot com)" 34163
+35.237.82.46 - - [17/Apr/2021:10:06:40 -0300] "GET / HTTP/1.0" 403 5968 "-" "ZoominfoBot (zoominfobot at zoominfo dot com)" 48303
+186.202.173.147 - - [17/Apr/2021:12:19:58 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)" 62314
+35.231.59.220 - - [17/Apr/2021:12:27:45 -0300] "GET /robots.txt HTTP/1.0" 404 1033 "-" "ZoominfoBot (zoominfobot at zoominfo dot com)" 56485
+35.231.59.220 - - [17/Apr/2021:12:27:45 -0300] "GET / HTTP/1.0" 403 5968 "-" "ZoominfoBot (zoominfobot at zoominfo dot com)" 60341
+35.231.59.220 - - [17/Apr/2021:13:10:34 -0300] "GET /robots.txt HTTP/1.0" 404 1029 "-" "ZoominfoBot (zoominfobot at zoominfo dot com)" 35785
+35.231.59.220 - - [17/Apr/2021:13:10:34 -0300] "GET / HTTP/1.0" 403 5968 "-" "ZoominfoBot (zoominfobot at zoominfo dot com)" 42079
+189.120.74.247 - - [17/Apr/2021:17:45:30 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" 28039
+189.120.74.247 - - [17/Apr/2021:17:45:30 -0300] "GET /robots.txt HTTP/1.1" 404 1143 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" 28040
+189.120.74.247 - - [17/Apr/2021:17:45:31 -0300] "GET /favicon.ico HTTP/1.1" 404 1255 "http://hslsantos.com.br/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" 28045
+35.227.57.123 - - [17/Apr/2021:23:26:07 -0300] "GET /robots.txt HTTP/1.0" 404 1033 "-" "ZoominfoBot (zoominfobot at zoominfo dot com)" 54105
+35.227.57.123 - - [17/Apr/2021:23:26:07 -0300] "GET / HTTP/1.0" 403 5968 "-" "ZoominfoBot (zoominfobot at zoominfo dot com)" 51537

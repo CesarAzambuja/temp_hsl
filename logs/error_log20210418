@@ -1,0 +1,7 @@
+[Sun Apr 18 03:14:21 2021] [error] [client 34.222.179.37] Directory index forbidden by Options directive: /home/storage/a/2e/81/hslsantos/public_html/
+[Sun Apr 18 05:25:16 2021] [error] [client 54.202.163.200] Directory index forbidden by Options directive: /home/storage/a/2e/81/hslsantos/public_html/
+[Sun Apr 18 12:20:05 2021] [error] [client 186.202.173.147] Directory index forbidden by Options directive: /home/storage/a/2e/81/hslsantos/public_html/
+[Sun Apr 18 12:45:11 2021] [error] [client 208.100.26.235] Directory index forbidden by Options directive: /home/storage/a/2e/81/hslsantos/public_html/
+[Sun Apr 18 19:03:02 2021] [error] [client 189.120.74.247] Directory index forbidden by Options directive: /home/storage/a/2e/81/hslsantos/public_html/
+[Sun Apr 18 19:03:04 2021] [error] [client 189.120.74.247] File does not exist: /home/storage/a/2e/81/hslsantos/public_html/favicon.ico, referer: http://hslsantos.com.br/
+[Sun Apr 18 19:03:11 2021] [error] [client 189.120.74.247] ModSecurity: collections_remove_stale: Failed deleting collection (name "ip", key "197.155.158.21_1759fce451e56b4eb624eea72c06ca78e73f27d0"): Internal error [hostname "hslsantos.com.br"] [uri "/error/noindex.html"] [unique_id "YHyslrstwwoAAFQnwRYAAAAQ"]

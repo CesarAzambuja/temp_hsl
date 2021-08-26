@@ -1,0 +1,8 @@
+35.227.57.123 - - [18/Apr/2021:00:05:51 -0300] "GET /robots.txt HTTP/1.0" 404 1029 "-" "ZoominfoBot (zoominfobot at zoominfo dot com)" 45117
+35.227.57.123 - - [18/Apr/2021:00:05:51 -0300] "GET / HTTP/1.0" 403 5968 "-" "ZoominfoBot (zoominfobot at zoominfo dot com)" 60833
+34.222.179.37 - - [18/Apr/2021:03:14:21 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" 55780
+54.202.163.200 - - [18/Apr/2021:05:25:16 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36" 33780
+186.202.173.147 - - [18/Apr/2021:12:20:05 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)" 53111
+208.100.26.235 - - [18/Apr/2021:12:45:11 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (Android 7.0; Mobile; LG-M150; rv:68.0) Gecko/68.0 Firefox/68.0" 45030
+189.120.74.247 - - [18/Apr/2021:19:03:04 -0300] "GET /favicon.ico HTTP/1.1" 404 1255 "http://hslsantos.com.br/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" 27793
+189.120.74.247 - - [18/Apr/2021:19:03:02 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" 27792
